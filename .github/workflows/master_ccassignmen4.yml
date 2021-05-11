@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'ccassignmen4'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7e81853bcd704803ba071c9f7ea6ec0f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c09a2e1fd5be4227a205326276357705 }}
         package: .
